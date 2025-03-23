@@ -6,7 +6,7 @@ Este proyecto es una calculadora para convertir las monedas, simplemente ingresa
 ## Pre-Requisitos 
 Instalar el compilador de C (build-essentials)
 
-> sudo apt install build-essesntial
+> sudo apt install build-essential
 
 ## Pasos para su ejecucion
   1. Compilar el programa en C con el comando *gcc coversor.c* -o *output*
